@@ -1,0 +1,17 @@
+# Graph Search Algorithms - Requirements
+
+# This project uses only Python standard library modules
+# No external dependencies required!
+
+# Python version requirement
+python>=3.7
+
+# Standard library modules used:
+# - collections (deque, defaultdict)
+# - typing (List, Dict, Set, Optional, Tuple)
+# - unittest (for testing)
+
+# For development/testing (optional):
+# - pytest>=6.0.0  # Alternative test runner
+# - black>=21.0.0   # Code formatter
+# - mypy>=0.800     # Type checker 
